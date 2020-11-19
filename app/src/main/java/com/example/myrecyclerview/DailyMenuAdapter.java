@@ -89,7 +89,7 @@ public class DailyMenuAdapter extends RecyclerView.Adapter<RecyclerView.ViewHold
 
         }
         public void setHeaderText(String text){
-            this.headerView.setText(text)
+            this.headerView.setText(text);
         }
     }
 
